@@ -1,5 +1,5 @@
-![Josh LinkedIn](test/assets/Josh_png.png)
+![Josh LinkedIn](/test/assets/Josh_png.png)
 
-new text
+new new text
 
 
