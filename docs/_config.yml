@@ -2,5 +2,5 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-img: test/assets/Josh_png.png
+logo: test/assets/Josh_png.png
 description: [github pages v2]
