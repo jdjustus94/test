@@ -1,3 +1,3 @@
-## I am testing the GitHub tutorial process.
+I am testing the GitHub tutorial process.
 
 
