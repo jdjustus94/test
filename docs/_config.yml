@@ -3,5 +3,4 @@ plugins:
 - jekyll-remote-theme
 
 title: [test]
-logo: [/assets/Josh_png.png]
 description: [github pages v2]
